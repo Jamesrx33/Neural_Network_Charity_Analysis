@@ -34,6 +34,7 @@ This report will enumerate how effective a Deep-Learning Neural Network can be a
   - We chose the Relu and Sigmoid activation functions because they do well with binary classifications
 * **Goal:** Our goal for the model was to achieve 75% accuracy in our predictions, we were able to do so
 * **Optimization Steps:** In order to obtain 75% accuracy, we needed to do the following optimizations:
+  - **Improve Design:** We added 120 neurons and a third hidden layer
   - **Remove Noise:** After preprocessing, we identified 12 variables that contributed very little to the models variance amd removed them
   
   <p align="center">
